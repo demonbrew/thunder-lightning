@@ -15,5 +15,5 @@ The more I read, and the more I learned - I figured the effect would be better p
 
 Installation and configuration of the LightshowPi software was super simple. Wiring the relay board just meant connecting trigger GPIO pins to the input pins on the board, plus 5V and ground. Make sure the jumper on the relay board is on the VCC side (and not JD-VCC). Wiring the extension cord ends was a little tricky. The wire gauge thickness for the plugs was a bit thick in the relay jacks. They tend to pull out very easily. Next, connect speakers to the Raspberry Pi, then start the software. I had it automatically play a playlist of seven different thunder and lightning mp3 files, and it auto-magically synced the three flood lights based on the audio. It was very effective as a low cost prop.
 
-![Wiring diagram](/assets/wiring diagram.jpg)
+![Wiring diagram](/assets/wiringdiagram.jpg)
 ![Working build](/assets/setup.JPG)
